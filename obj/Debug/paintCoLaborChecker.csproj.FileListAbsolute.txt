@@ -1,0 +1,10 @@
+C:\Users\natha\Desktop\C#\paintCoLaborChecker\bin\Debug\paintCoLaborChecker.exe.config
+C:\Users\natha\Desktop\C#\paintCoLaborChecker\bin\Debug\paintCoLaborChecker.exe
+C:\Users\natha\Desktop\C#\paintCoLaborChecker\bin\Debug\paintCoLaborChecker.pdb
+C:\Users\natha\Desktop\C#\paintCoLaborChecker\obj\Debug\paintCoLaborChecker.csproj.AssemblyReference.cache
+C:\Users\natha\Desktop\C#\paintCoLaborChecker\obj\Debug\paintCoLaborChecker.Form1.resources
+C:\Users\natha\Desktop\C#\paintCoLaborChecker\obj\Debug\paintCoLaborChecker.Properties.Resources.resources
+C:\Users\natha\Desktop\C#\paintCoLaborChecker\obj\Debug\paintCoLaborChecker.csproj.GenerateResource.cache
+C:\Users\natha\Desktop\C#\paintCoLaborChecker\obj\Debug\paintCoLaborChecker.csproj.CoreCompileInputs.cache
+C:\Users\natha\Desktop\C#\paintCoLaborChecker\obj\Debug\paintCoLaborChecker.exe
+C:\Users\natha\Desktop\C#\paintCoLaborChecker\obj\Debug\paintCoLaborChecker.pdb
